@@ -30,6 +30,6 @@ setup(
         'pillow',
         'django>=1.11',
         'django-oscar>=2.0',
-        'django-phonenumber-field>=3.0.0',
+        'django-phonenumber-field>=2.0.1',
     ]
 )
